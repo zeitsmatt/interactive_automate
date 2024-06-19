@@ -130,5 +130,5 @@ If you have any suggestions or improvements, feel free to create an issue or sub
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
 ```
