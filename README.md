@@ -68,6 +68,11 @@ To run a C snippet with a custom clipboard tool:
 ```bash
 ./interactive_automate.sh c xclip
 ```
+Also feel free to use the simple gui as a result of my typo in naming the file for initial commit.
+```bash
+python ./interactive_automate.py c xclip
+```
+
 
 ### Interactive Code Input
 
