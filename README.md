@@ -1,5 +1,3 @@
-Sure! Here is the GitHub README in Markdown format:
-
 ```markdown
 # Interactive Automate Script
 
@@ -134,5 +132,3 @@ If you have any suggestions or improvements, feel free to create an issue or sub
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-You can save this content into a file named `README.md` in your GitHub repository. Feel free to customize the repository URL and any other details according to your project specifics.
